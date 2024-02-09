@@ -11,4 +11,4 @@
 MSHINDANO/MSHINDANO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-s'il vous plait, aidez-moi à pouvoir avancer dans mon projet.. merci 
+Mshindano. merci 
